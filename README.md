@@ -6,7 +6,7 @@ _Autodidact Software Engineer based in Charlotte, NC_ <br>
 
 ## 👩🏼‍💻 Technical Experience
 
-**Senior Software Engineer** @ [LeanTaaS](https://leantaas.com/) _(Jan 2019 - Present)_
+**Senior Software Engineer** @ [LeanTaaS](https://leantaas.com/) _(Jan 2019 - Present)_ <br>
 Leading AI-Driven Digital Transformation Platform for Healthcare
   - Created database infrastructure from scratch
   - Created ETL Pipelines in Apache Airflow
@@ -14,7 +14,7 @@ Leading AI-Driven Digital Transformation Platform for Healthcare
   - **_Technologies used:_** Python, AWS, Airflow, Angular, Docker, Postgres, Jenkins, Mirth, Shell Scripting
   <br><br>
 
-**Senior Python Developer** @ [Ally](https://www.ally.com/) _(May 2018 – Jan 2019)_
+**Senior Python Developer** @ [Ally](https://www.ally.com/) _(May 2018 – Jan 2019)_ <br>
 Digital financial services company
   - Worked closely with business partners in Capital Markets to design and support web based real-time pricing application
   - Completed stand-up of new application in multiple environments
