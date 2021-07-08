@@ -11,6 +11,8 @@ Leading AI-Driven Digital Transformation Platform for Healthcare
   - Created database infrastructure from scratch
   - Created ETL Pipelines in Apache Airflow
   - Created Realtime events stream for processing HL7 events
+  - **_Technologies used:_** Python, AWS, Airflow, Angular, Docker, Postgres, Jenkins, Mirth, Shell Scripting
+  <br><br>
 
 **Senior Python Developer** @ [Ally](https://www.ally.com/) _(May 2018 – Jan 2019)_
 Digital financial services company
@@ -18,7 +20,8 @@ Digital financial services company
   - Completed stand-up of new application in multiple environments
   - Configured Control-M scheduler to manage daily jobs and processes critical to program execution
   - Documented application both on user accessible wiki and through docstrings in the code for more technical audiences
-  - **_Technologies used:_** Python, JavaScript, REST, Microsoft SQL Server, Oracle DB, Gevent, SVN, Git
+  - **_Technologies used:_** Python, JavaScript, REST, Microsoft SQL Server, Oracle DB, Gevent, Jenkins, SVN, Git
+  <br><br>
 
 **Python Developer** @ [Bank of America](https://www.bankofamerica.com/) _(Feb 2017 – Apr 2018)_ <br>
 Commercial Bank
