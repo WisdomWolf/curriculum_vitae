@@ -4,7 +4,7 @@ _Autodidact Software Engineer based in Charlotte, NC_ <br>
 
 [Email](mailto:wisdomwolf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ryan-beaman-6b0924121) / [GitHub](https://github.com/WisdomWolf/)
 
-## Technical Experience
+## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer** @ [LeanTaaS](https://leantaas.com/) _(Jan 2019 - Present)_
 Leading AI-Driven Digital Transformation Platform for Healthcare
@@ -47,3 +47,17 @@ Foodservice and support services company.
     - [Project Dashboard Source Code](https://bitbucket.org/compass_dataservices/project-dashboard)
   - **_Technologies used:_** Python, Flask, MongoDB, HTML, CSS, JavaScript, JQuery, Bootstrap, Jenkins
   <br><br>
+  
+## 📌 Hobby Projects
+  
+**Dog Food Monitor**
+Created battery operated sensor for dog food with recurring reminder broadcast across Google Home speakers
+- **_Technologies used:_** Arduino, MQTT, Docker, Python
+<br><br>
+
+**SmartifyFM** 
+Web UI generate smart playlists for Spotify using Last.FM data _In Progress_
+- **_Technologies used:_** Python, VueJS, Docker, REST
+<br><br>
+
+Additional Python, JavaScript, NodeJS, and Arduino C++ projects tracked via git visible on [GitHub](https://gitlab.com/users/wisdomwolf/projects)
