@@ -38,7 +38,12 @@ Foodservice and support services company.
   - Designed and deployed custom software solutions
   - AHK script based tweaks for greater efficiency when using vendor software from Agilysys and Micros
   - User Interface customization of web-based ticketing system through local JavaScript files
-  - Python based tool for parsing vendor item exports into Excel format for more efficient large-scale price increases.  Creation of the tool resulted in 66% reduction in customer turnaround time and 90% reduction in man hours required. [Agilysys Import Export Tool] (https://bitbucket.org/compass_dataservices/agilysys-import-export-tools)
-  - Python/Flask based site used for project tracking.  Personally handled DNS configuration, VPS setup, and all coding.  Site integrated with Microsoft Sharepoint, BMC Remedy, and used custom dynamically generated email addresses to serve as a single aggregation point for information relating to any given project. [Project Dashboard] (https://bitbucket.org/compass_dataservices/project-dashboard)
+  - Python based tool for parsing vendor item exports into Excel format for more efficient large-scale price increases
+    - Creation of the tool resulted in 66% reduction in customer turnaround time and 90% reduction in man hours required
+    - [Agilysys Import Export Tool](https://bitbucket.org/compass_dataservices/agilysys-import-export-tools)
+  - Python/Flask based site used for project tracking
+    - Personally handled DNS configuration, VPS setup, and all coding
+    - Site integrated with Microsoft Sharepoint, BMC Remedy, and used custom dynamically generated email addresses to serve as a single aggregation point for information relating to any given project
+    - [Project Dashboard](https://bitbucket.org/compass_dataservices/project-dashboard)
   - **_Technologies used:_** Python, Flask, MongoDB, HTML, CSS, JavaScript, JQuery, Bootstrap, Jenkins
   <br><br>
