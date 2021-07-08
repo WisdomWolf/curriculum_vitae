@@ -51,12 +51,12 @@ Foodservice and support services company.
 ## 📌 Hobby Projects
   
 **Dog Food Monitor**
-Created battery operated sensor for dog food with recurring reminder broadcast across Google Home speakers
+<br>Created battery operated sensor for dog food with recurring reminder broadcast across Google Home speakers
 - **_Technologies used:_** Arduino, MQTT, Docker, Python
 <br><br>
 
 **SmartifyFM** 
-Web UI generate smart playlists for Spotify using Last.FM data _In Progress_
+<br>Web UI generate smart playlists for Spotify using Last.FM data _In Progress_
 - **_Technologies used:_** Python, VueJS, Docker, REST
 <br><br>
 
