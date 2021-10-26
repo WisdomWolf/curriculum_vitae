@@ -68,3 +68,5 @@ Foodservice and support services company.
 <br><br>
 
 Additional Python, JavaScript, NodeJS, and Arduino C++ projects tracked via git visible on [GitHub](https://gitlab.com/users/wisdomwolf/projects)
+
+This resume is available in a living document form at the following URL: https://wisdomwolf.github.io/curriculum_vitae
