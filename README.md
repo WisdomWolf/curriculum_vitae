@@ -4,14 +4,21 @@ _Autodidact Software Engineer based in Charlotte, NC_ <br>
 
 [Email](mailto:wisdomwolf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ryan-beaman-6b0924121) / [GitHub](https://github.com/WisdomWolf/)
 
+## About Me
+I'm the kind of person who runs a high availability mixed-architecture (x86, arm-v7, arm-v8/arm64) Kubernetes cluster on bare metal because I'm curious and want to understand Kubernetes better.  Automation is a way of life both in my professional life and my personal life.
+
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Software Engineer** @ [LeanTaaS](https://leantaas.com/) _(Jan 2019 - Present)_ <br>
 Leading AI-Driven Digital Transformation Platform for Healthcare
-  - Created database infrastructure from scratch
-  - Created ETL Pipelines in Apache Airflow
-  - Created Realtime events stream for processing HL7 events
-  - **_Technologies used:_** Python, AWS, Airflow, Angular, Docker, Postgres, Jenkins, Mirth, Shell Scripting
+  - Key contributor in creating database infrastructure from scratch
+    - RDBMS implementation selection (Postgres)
+    - Schema/role design, implementation, and iteration
+  - Created and maintained customer specific ETL Pipelines in Apache Airflow in scalable manner
+  - Created and maintained custom HL7 events processor for handling real-time events stream
+  - One of three key decision makers on all data pipeline architecture discussions
+  - Responsible for creating pip installable custom libraries for easy functionality sharing across projects
+  - **_Technologies used:_** Python, AWS, Apache Airflow, Angular, Docker, Postgres, Jenkins, Mirth, Shell Scripting
   <br><br>
 
 **Senior Python Developer** @ [Ally](https://www.ally.com/) _(May 2018 – Jan 2019)_ <br>
