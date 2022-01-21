@@ -63,5 +63,5 @@ Web UI generate smart playlists for Spotify using Last.FM data _In Progress_
 
 Additional Python, JavaScript, NodeJS, and Arduino C++ projects tracked via git visible on [GitLab](https://gitlab.com/users/wisdomwolf/projects)
 
-This resume is available in a living document form at the following URL: https://wisdomwolf.github.io/curriculum_vitae
-[PDF Download](https://wise-pdf-downloader.herokuapp.com/download)
+This resume is available in a living document form at the following URL: https://wisdomwolf.github.io/curriculum_vitae  
+[Download PDF Copy](https://wise-pdf-downloader.herokuapp.com/download)
