@@ -61,6 +61,7 @@ Created battery operated sensor for dog food with recurring reminder broadcast a
 Web UI generate smart playlists for Spotify using Last.FM data _In Progress_
 - **_Technologies used:_** Python, VueJS, Docker, REST  
 
-Additional Python, JavaScript, NodeJS, and Arduino C++ projects tracked via git visible on [GitHub](https://gitlab.com/users/wisdomwolf/projects)
+Additional Python, JavaScript, NodeJS, and Arduino C++ projects tracked via git visible on [GitLab](https://gitlab.com/users/wisdomwolf/projects)
 
 This resume is available in a living document form at the following URL: https://wisdomwolf.github.io/curriculum_vitae
+[PDF Download](https://wise-pdf-downloader.herokuapp.com/download)
