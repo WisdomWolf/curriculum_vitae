@@ -5,9 +5,22 @@ _Autodidact Software Engineer based in Charlotte, NC_
 [Email](mailto:wisdomwolf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ryan-beaman-6b0924121) / [GitHub](https://github.com/WisdomWolf/)
 
 ## About Me
-I'm the kind of person who runs a high availability mixed-architecture (x86, arm-v7, arm-v8/arm64) Kubernetes cluster on bare metal because I'm curious and want to understand Kubernetes better.  Automation is a way of life both in my professional life and my personal life.
+I'm the kind of person who runs a high availability mixed-architecture (x86, arm-v7, arm-v8/arm64) Kubernetes cluster on bare metal because I'm curious and want to understand Kubernetes better.  Automation is a way of life both at work and at home.
 
 ## 👩🏼‍💻 Technical Experience
+
+**Lead Full Stack Sofware Engineer** @ [Walker & Dunlop](https://walkerdunlop.com) _(March 2022 - April 2023)_
+Commercial Real Estate Finance Service Company
+  - Introduced Test Driven Development practices for more reliable feature delivery
+    - Automated existing integration tests (including Docker container setup/teardown) using Pytest plugins
+    - Designed and implemented configurable mock classes with sane attribute defaults for easy test case creation
+    - Built new unit tests framework to obviate database integration where possible
+  - Mentored engineers familiar with other programming languages in fundamentals and best practices regarding Python
+  - Created scalable infrastructure for handling bulk database operations in a format compatible with serverless workflows (such as AWS Step Functions)
+  - Refactored existing interfaces to abstract database access in order to introduce unit tests and reduce reliance on integration tests
+  - Redesigned api interfaces to move logic handling from the front-end to the backend
+  - Introduced SQL migrations concepts with up/down scripts for more repeatable database handling
+  - **_Technologies used:_** Python, GCP, Vue, Docker, Kubernetes, Postgres, Falcon, Sentry
 
 **Senior Software Engineer** @ [LeanTaaS](https://leantaas.com/) _(Jan 2019 - Present)_  
 Leading AI-Driven Digital Transformation Platform for Healthcare
@@ -21,7 +34,7 @@ Leading AI-Driven Digital Transformation Platform for Healthcare
   - **_Technologies used:_** Python, AWS, Apache Airflow, Angular, Docker, Postgres, Jenkins, Mirth, Shell Scripting  
 
 **Senior Python Developer** @ [Ally](https://www.ally.com/) _(May 2018 – Jan 2019)_  
-Digital financial services company
+Digital Financial Services Company
   - Worked closely with business partners in Capital Markets to design and support web based real-time pricing application
   - Completed stand-up of new application in multiple environments
   - Configured Control-M scheduler to manage daily jobs and processes critical to program execution
