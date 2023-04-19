@@ -20,7 +20,7 @@ Commercial Real Estate Finance Service Company
   - Refactored existing interfaces to abstract database access in order to introduce unit tests and reduce reliance on integration tests
   - Redesigned api interfaces to move logic handling from the front-end to the backend
   - Introduced SQL migrations concepts with up/down scripts for more repeatable database handling
-  - **_Technologies used:_** Python, GCP, Vue, Docker, Kubernetes, Postgres, Falcon, Sentry
+  - **_Technologies used:_** Python, GCP, Vue, Docker, Kubernetes, Postgres, Falcon, Sentry, GitHub, GitLab
 
 **Senior Software Engineer** @ [LeanTaaS](https://leantaas.com/) _(Jan 2019 - Present)_  
 Leading AI-Driven Digital Transformation Platform for Healthcare
